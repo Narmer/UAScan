@@ -42,6 +42,16 @@
         </v-col>
       </v-row>
     </v-container>
+    <v-container class="white">
+      <v-row class="black--text text-center" justify="center" align="center">
+        <v-col cols="12" xl="8" sm="8" md="6">
+          <div>
+            <h2 class="display-2">Le Résultat obtenu.</h2>
+            <p class="title font-weight-light">Nous aidons les entreprises à se développer, à lancer des produits et à établir des relations durables avec leurs clients.</p>
+          </div>
+        </v-col>
+      </v-row>
+    </v-container>
   </div>
 </template>
 
