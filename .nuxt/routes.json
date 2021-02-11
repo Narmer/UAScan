@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/uascan/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/uascan/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
