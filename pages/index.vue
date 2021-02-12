@@ -52,6 +52,17 @@
         </v-col>
       </v-row>
     </v-container>
+    <v-container class="white">
+      <v-row class="black--text text-center" justify="center" align="center">
+        <v-col cols="12" xl="8" sm="8" md="6">
+          <div>
+            <h2 class="display-2">Clients</h2>
+            <ClientLogo />
+            <ClientsList />
+          </div>
+        </v-col>
+      </v-row>
+    </v-container>
   </div>
 </template>
 
